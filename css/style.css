@@ -201,6 +201,76 @@ nav .contenitore-nav .accesso-button{
     margin-top: 40px;
 }
 
+footer{
+    background-color: black;
+    height: 800px;
+}
+
+.row{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.row .coln1{
+    width: 20%;
+}
+
+.footer{
+    color: #677bc2;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+.col{
+    float: left;
+    height: 100px;
+    width: 20%;
+}
+
+.ita{
+    width: 30px;
+    margin-top: 20px;
+}
+
+.span-ita{
+    color: white;
+    line-height: 10px;
+    height: 10px;
+    vertical-align: text-top;
+}
+
+.social{
+    width: 100%;
+}
+
+.col-footer{
+    width: 15%;
+}
+
+.ul-footer{
+    color: #677bc2;
+    list-style: none;
+    font-size: 18px;
+}
+
+.li-footer{
+    color: white;
+    margin-top: 15px;
+}
+
+.link-footer{
+    text-decoration: none;
+    color: white;
+}
+
+.coln2{
+    margin-top: 10px;
+}
+
+
+
 
 
 
