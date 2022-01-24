@@ -92,7 +92,7 @@ nav .contenitore-nav .accesso-button{
     line-height: 1.5;
 }
 
-.parte1 .section1 .intro-discord .tasto{
+.tasto{
     display: inline-block;
     text-decoration: none;
     font-size: 21px;
@@ -102,13 +102,13 @@ nav .contenitore-nav .accesso-button{
     border-radius: 25px 25px 25px 25px;
 }
 
-.parte1 .section1 .intro-discord .scarica{
+.scarica{
     color: black;
     background-color: white;
     width: 220px;
 }
 
-.parte1 .section1 .intro-discord .scarica .arrow{
+.scarica .arrow{
     font-size: 24px;
     font-weight: 1000;
 }
@@ -126,6 +126,7 @@ nav .contenitore-nav .accesso-button{
     margin-top: 90px;
     height: 600px;
     padding-left: 50px;
+    padding-top: 50px;
 }
 
 
@@ -154,8 +155,8 @@ nav .contenitore-nav .accesso-button{
     float: right;
 }
 
-.parte1 .sfondo-ocra{
-    background-color: #f6f6f6;
+.sfondo-ocra{
+    background-color: #d9d7d7;
 }
 
 .parte2 .section2 .img-item2{
@@ -166,6 +167,43 @@ nav .contenitore-nav .accesso-button{
 .parte2 .section2 .testo2{
     float: left;
 }
+
+.chiusura{
+    background-color: #d9d7d7;
+    height: 1100px;
+}
+
+.parte2 .chiusura .section2{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+}
+
+.parte2 .section2 .centrate{
+    text-align: center;
+    width: 90%;
+}
+
+.parte2 .section2 .img-videocall{
+    width: 100%;
+}
+
+.testo-end h3{
+    margin-top: 50px;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.blue{
+    background-color: #677bc2;
+    color: white;
+    margin-top: 40px;
+}
+
+
+
+
 
 
 
