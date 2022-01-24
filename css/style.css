@@ -245,14 +245,13 @@ footer{
     width: 100%;
 }
 
-.col-footer{
-    width: 15%;
-}
-
 .ul-footer{
     color: #677bc2;
     list-style: none;
     font-size: 18px;
+    width: 200px;
+    float: left;
+    padding-top: 12px;
 }
 
 .li-footer{
@@ -265,9 +264,12 @@ footer{
     color: white;
 }
 
-.coln2{
-    margin-top: 10px;
+.linea{
+    color: #677bc2;
+    height: 1px;
 }
+
+
 
 
 
