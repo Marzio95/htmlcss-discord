@@ -66,7 +66,7 @@ nav .contenitore-nav .accesso-button{
 
 .parte1 .section1{
     width: 100%;
-    height: 1000px;
+    height: 600px;
     background-image: url(../img/jumbo.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -108,9 +108,61 @@ nav .contenitore-nav .accesso-button{
     width: 220px;
 }
 
+.parte1 .section1 .intro-discord .scarica .arrow{
+    font-size: 24px;
+    font-weight: 1000;
+}
+
 .parte1 .section1 .intro-discord .apri-browser{
     color: white;
     background-color: black;
     width: 320px;
-    
 }
+
+
+.parte2 .section2{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 90px;
+    height: 600px;
+    padding-left: 50px;
+}
+
+
+.parte2 .section2 .colonna{
+    display: inline-block;
+    width: 30%;
+}
+
+
+.parte2 .section2 .scritte h2{
+    font-size: 48px;
+}
+
+.parte2 .section2 .scritte p{
+    font-size: 20px;
+    line-height: 1.5;
+    margin-top: 20px;
+}
+
+.parte2 .section2 .img-item1{
+    float: left;
+    transform: translateY(-40px);
+}
+
+.parte2 .section2 .testo1{
+    float: right;
+}
+
+
+.parte2 .section2 .img-item2{
+    float: right;
+    transform: translateY(-40px);
+}
+
+.parte2 .section2 .testo2{
+    float: left;
+}
+
+
+
