@@ -23,11 +23,11 @@ nav{
 nav .contenitore-nav{
     width: 80%;
     margin: 0 auto;
+    display: inline-block;
 }
 
 
 nav .contenitore-nav .logo{
-    display: inline-block;
     height: 100px;
     width: 150px;
     float: left;
@@ -58,10 +58,9 @@ nav .contenitore-nav .accesso-button{
     color: black;
     background-color: white;
     float: right;
-    display: inline-block;
     text-decoration: none;
     width: 75px;
-    border-radius: 25%;
+    border-radius: 25px;
 }
 
 .parte1 .section1{
