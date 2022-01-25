@@ -282,6 +282,11 @@ footer{
     height: 1px;
 }
 
+svg{
+    display: block;
+    margin-bottom: -90px;
+}
+
 
 
 
