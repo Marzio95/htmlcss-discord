@@ -189,7 +189,12 @@ nav .contenitore-nav .accesso-button{
 
 .chiusura{
     background-color: #d9d7d7;
-    height: 1100px;
+    height: 100vh;
+    padding-bottom: 500px;
+}
+
+.img-videocall{
+    width: 80%;
 }
 
 .parte2 .chiusura .section2{
@@ -222,7 +227,7 @@ nav .contenitore-nav .accesso-button{
 
 footer{
     background-color: black;
-    height: 800px;
+    height: 100vh;
 }
 
 .row{
