@@ -132,6 +132,12 @@ nav .contenitore-nav .accesso-button{
     width: 320px;
 }
 
+.parte2{
+    display: table;
+    content: "";
+    clear: both;
+}
+
 
 .parte2 .section2{
     width: 80%;
