@@ -292,6 +292,10 @@ footer{
     color: white;
 }
 
+.link-footer:hover{
+    text-decoration: underline;
+}
+
 .linea{
     color: #677bc2;
     height: 1px;
