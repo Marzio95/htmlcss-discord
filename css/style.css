@@ -55,6 +55,10 @@ nav .contenitore-nav .lista-nav .elem-lista .link-lista{
     color: white;
 }
 
+nav .contenitore-nav .lista-nav .elem-lista .link-lista:hover{
+    text-decoration: underline;
+}
+
 .btn-acc{
     position: absolute;
     right: 0;
