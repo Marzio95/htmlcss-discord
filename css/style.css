@@ -119,6 +119,10 @@ nav .contenitore-nav .accesso-button{
     border-radius: 25px 25px 25px 25px;
 }
 
+.tasto:hover{
+    filter: brightness(0.8);
+}
+
 .scarica{
     color: black;
     background-color: white;
