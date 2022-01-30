@@ -50,6 +50,32 @@ nav .contenitore-nav .lista-nav .elem-lista{
     display: inline-block;
 }
 
+.elem-lista .padre-tendina{
+    position: relative;
+}
+
+.padre-tendina:hover .tendina{
+    display:block;
+}
+
+.tendina{
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    background-color: white;
+    position: absolute;
+    display: none;
+}
+
+.link-tendina{
+    display: block;
+    text-decoration: none;
+}
+
+.link-tendina:hover{
+    background-color: lightgray;
+}
+
 nav .contenitore-nav .lista-nav .elem-lista .link-lista{
     text-decoration: none;
     color: white;
