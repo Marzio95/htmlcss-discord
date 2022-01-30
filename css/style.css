@@ -69,7 +69,7 @@ nav .contenitore-nav .lista-nav .elem-lista{
 
 .link-tendina{
     display: block;
-    text-decoration: none;
+    color: green;
 }
 
 .link-tendina:hover{
