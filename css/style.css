@@ -46,7 +46,7 @@ nav .contenitore-nav .lista-nav{
 }
 
 nav .contenitore-nav .lista-nav .elem-lista{
-    margin-right: 20px;
+    margin-right: 40px;
     display: inline-block;
 }
 
@@ -188,6 +188,20 @@ i{
 
 .sfondo-ocra{
     background-color: #d9d7d7;
+}
+
+.wave-1hkxOo2{
+    position: relative;
+    bottom: 60px;
+}
+
+.wave-1hkxOo{
+    transform: rotate(180deg);
+    fill: #d9d7d7;
+}
+
+.wave-1hkxOo3{
+    transform: rotate(180deg);
 }
 
 .parte2 .section2 .img-item2{
