@@ -280,6 +280,7 @@ i{
 footer{
     background-color: black;
     height: 100vh;
+    position: relative;
 }
 
 .row{
@@ -354,6 +355,25 @@ svg{
     margin-bottom: -90px;
 }
 
+.icons-row{
+    width: 80%;
+    margin: auto;
+    position: absolute;
+    bottom: 15%;
+    left: 10%;
+    padding-top: 30px;
+    border-top: 3px solid white;
+}
+
+.icn-white{
+    color: white;
+    margin-right: 30px;
+    font-size: 28px;
+}
+
+.logo-fot{
+    float: right;
+}
 
 
 
